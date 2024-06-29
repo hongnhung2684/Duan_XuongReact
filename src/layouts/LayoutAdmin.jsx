@@ -5,7 +5,6 @@ const LayoutAdmin = () => {
   return (
     <>
       <header>
-        <h1>Hello Admin</h1>
         <ul>
           <li>
             <Link to="/">Home</Link>

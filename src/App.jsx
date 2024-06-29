@@ -58,8 +58,6 @@ function App() {
           <Route path="/login" element={<AuthForm />} />
         </Routes>
       </main>
-
-      <Footer />
     </>
   );
 }

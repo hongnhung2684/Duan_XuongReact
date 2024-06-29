@@ -10,7 +10,7 @@
       "stock": 94,
       "brand": "Apple",
       "category": "smartphones",
-      "thumbnail": "https://res.cloudinary.com/dggny2ucw/image/upload/v1719587484/avyhzhcyz93u3duvgmjy.jpg",
+      "thumbnail": "https://tse3.mm.bing.net/th?id=OIP.99qJd0KiYicICEzUQ8l13wHaHa&pid=Api&P=0&h=180",
       "images": [
         "https://cdn.dummyjson.com/product-images/1/1.jpg",
         "https://cdn.dummyjson.com/product-images/1/2.jpg",
@@ -47,7 +47,7 @@
       "stock": 123,
       "brand": "OPPO",
       "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+      "thumbnail": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/309831/xiaomi-redmi-note-13-gold-thumb-600x600.jpg",
       "images": [
         "https://cdn.dummyjson.com/product-images/4/1.jpg",
         "https://cdn.dummyjson.com/product-images/4/2.jpg",
@@ -66,7 +66,7 @@
       "stock": 32,
       "brand": "Huawei",
       "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+      "thumbnail": "https://res.cloudinary.com/dggny2ucw/image/upload/v1719658008/rurjiy78qx3zzyf8t1ct.jpg",
       "images": [
         "https://cdn.dummyjson.com/product-images/5/1.jpg",
         "https://cdn.dummyjson.com/product-images/5/2.jpg",
@@ -83,7 +83,7 @@
       "stock": 83,
       "brand": "Apple",
       "category": "laptops",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+      "thumbnail": "https://res.cloudinary.com/dggny2ucw/image/upload/v1719658466/gp9pvlvadprmbmtvacbj.jpg",
       "images": [
         "https://cdn.dummyjson.com/product-images/6/1.png",
         "https://cdn.dummyjson.com/product-images/6/2.jpg",
@@ -506,6 +506,13 @@
       "description": "mo ta",
       "thumbnail": "https://res.cloudinary.com/dggny2ucw/image/upload/v1719587839/gcg9xgcjg4oondokcdag.jpg",
       "id": 29
+    },
+    {
+      "title": "iPhone 999",
+      "price": 200,
+      "description": "An apple mobile which is nothing like apple",
+      "thumbnail": "https://res.cloudinary.com/dggny2ucw/image/upload/v1719657970/smkf4yr6efttsvgimylk.jpg",
+      "id": 30
     }
   ],
   "users": [

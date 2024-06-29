@@ -62,7 +62,7 @@ const Dashboard = () => {
               <td>{p.description || "Dang cap nhat"}</td>
               <td>
                 {p.thumbnail ? (
-                  <img src={p.thumbnail} alt="Dang cap nhat" />
+                  <img src={p.thumbnail} width="200" height="200" />
                 ) : (
                   "Dang cap nhat"
                 )}

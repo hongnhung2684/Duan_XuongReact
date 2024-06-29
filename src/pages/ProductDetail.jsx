@@ -18,7 +18,7 @@ const ProductDetail = () => {
   return (
     <div>
       <h1>Product Detail</h1>
-      <img src={p.thumbnail} alt="" />
+      <img src={p.thumbnail} alt="" width="400" height="400" />
       <h3 className="fw-bold ">{p.title}</h3>
       <p className="text-primary fw-semibold">{p.description}</p>
     </div>
